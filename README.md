@@ -37,8 +37,8 @@ L'objectif est de mettre en œuvre les mécanismes fondamentaux d'un jeu vidéo,
 
 ## Documentation
 
-- [Sujet du projet](docs/sujet.pdf)
-- [Rapport du projet](docs/rapport.pdf)
+- [Sujet du projet](<2025_ProgJava_Projet_Pacman.pdf>)
+- [Rapport du projet](<IMLOUL_LYLIA_rapport.pdf>)
 
 ## Auteur
 
